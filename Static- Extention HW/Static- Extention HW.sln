@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static- Extention HW", "Static- Extention HW\Static- Extention HW.csproj", "{AC786336-65CA-4156-9E1D-33642C2892EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC786336-65CA-4156-9E1D-33642C2892EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC786336-65CA-4156-9E1D-33642C2892EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC786336-65CA-4156-9E1D-33642C2892EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC786336-65CA-4156-9E1D-33642C2892EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BCEFC29-E0E1-4C0B-BD48-A496D06AAE2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Hp Elitebook\Desktop\Static- Extention\P135 static-extention\Static-Extention\Static- Extention HW\Static- Extention HW\obj\Debug\net6.0\Static- Extention HW.csproj.AssemblyReference.cache
+C:\Users\Hp Elitebook\Desktop\Static- Extention\P135 static-extention\Static-Extention\Static- Extention HW\Static- Extention HW\obj\Debug\net6.0\Static- Extention HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\Desktop\Static- Extention\P135 static-extention\Static-Extention\Static- Extention HW\Static- Extention HW\obj\Debug\net6.0\Static- Extention HW.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\Desktop\Static- Extention\P135 static-extention\Static-Extention\Static- Extention HW\Static- Extention HW\obj\Debug\net6.0\Static- Extention HW.AssemblyInfo.cs
+C:\Users\Hp Elitebook\Desktop\Static- Extention\P135 static-extention\Static-Extention\Static- Extention HW\Static- Extention HW\obj\Debug\net6.0\Static- Extention HW.csproj.CoreCompileInputs.cache
